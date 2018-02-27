@@ -1,0 +1,76 @@
+[introduction]
+Bonjour,
+Note de Service
+Veuillez prendre note des éléments suivants :
+A l'attention de tous les collaborateurs :
+Rappel de la politique groupe
+IMPORTANT !
+Chers tous, chères toutes,
+Mes amis,
+Diffusion interne
+Salutations,
+
+[lead]
+Vous devez en toute circonstance
+L'avis défavorable du CHSCT confirme votre engagement de toujours
+Il est obligatoire de
+Nous vous rappelons que vous avez l'obligation légale de
+Le réglement intérieur de l'entreprise vous engage à
+Les accords de branche conclus l'année dernière vous imposent de
+En raison du vote récent de la loi Travail, vous devez
+Suite aux négocations avec les délégués du personnel, tous les salariés doivent désormais
+Les recommandations de notre CHO sont de
+Votre métier est assorti de certaines obligations, notamment de
+De récents manquements nous imposent de vous rappeler de
+Afin d'éviter tout problème de compétitivité, vous devez
+Le conseil d'administration a voté à l'unanimité l'obligation pour tous les collaborateurs de
+
+[main]
+déclarer tous les frais en note de frais, au centime près, à partir du premier centime
+éviter de parler aux personnes du sexe opposé, dans le cadre de notre plan de prévention du harcèlement
+réserver Internet à un usage strictement professionnel
+remplir votre CRA heure par heure avant le 18 du mois
+arriver avant 9h
+rester à votre poste jusqu'à 18h30
+laisser les toilettes propres après utilisation
+utiliser le modèle de signature d'entreprise pour tous vos emails
+signaler à votre hiérarchie tout manquement au réglement
+poser vos congés au plus tard 6 mois avant leur date de début
+demander l'autorisation au CTO pour utiliser la salle de pause
+garder votre téléphone professionnel allumé et à portée de main jusqu'à 22h en semaine et 18h le week-end
+pointer lorsque vous prenez ou quittez votre poste, quelle que soit la longueur de la pause
+remettre de l'eau dans la machine à café si le niveau est trop bas
+garer votre véhicule dans les places prévues à cet effet, sous peine d'enlèvement
+respecter la durée de pause déjeûner qui est de 45 minutes précises
+faire valider vos congés par vos N+1 et N+2
+porter votre badge de sécurité visible, grâce à l'un des supports homologués qui vont ont été remis (pince ou tour de cou)
+
+[followup]
+Effectif immédiatement
+Vous êtes des professionnels et devez agir comme tels
+Merci de bien vouloir vous adapter en conséquence
+Tout contrevenant sera puni
+Ces règles ne sont pas négociables
+Il en va de la bonne marche de l'entreprise
+Nous ne tolérerons aucun écart
+Je vous propose de l'appliquer dès que possible
+Merci de vous y conformer ASAP
+Merci de votre attention
+Merci de votre compréhension
+Nous attendons un comportement irréprochable
+La DRH est à votre disposition pour plus de précisions
+Merci de vous mettre en conformité dans les plus brefs délais
+Nous comptons sur vous pour montrer l'exemple auprès de vos collègues
+
+[salutation]
+Bonne journée.
+Cordialement,
+Bien à vous,
+Cdlt,
+Bien cordialement,
+Veuillez agréer Madame, Monsieur, mes sincères salutations
+Le management.
+La Direction.
+Au revoir.
+Pensez à la planète, n'imprimez ce mail que si c'est absolument nécessaire
+Le contenu de cet e-mail et des fichiers joints est strictement confidentiel et uniquement destiné aux personnes auxquelles ce message est adressé. Si vous n’êtes pas le destinataire voulu de cet e-mail ou si vous l’avez reçu par erreur, merci d’en avertir immédiatement l’expéditeur et de supprimer ce message et ses pièces jointes. Il est strictement interdit de copier, partager ou d’utiliser de toute autre manière cet e-mail et ses pièces jointes.
