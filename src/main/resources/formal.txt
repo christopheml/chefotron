@@ -10,6 +10,7 @@ Mes amis,
 Diffusion interne
 Salutations,
 
+
 [lead]
 Vous devez en toute circonstance
 L'avis défavorable du CHSCT confirme votre engagement de toujours
@@ -24,6 +25,11 @@ Votre métier est assorti de certaines obligations, notamment de
 De récents manquements nous imposent de vous rappeler de
 Afin d'éviter tout problème de compétitivité, vous devez
 Le conseil d'administration a voté à l'unanimité l'obligation pour tous les collaborateurs de
+Pour des raisons évidentes d'assurance la norme sera désormais de
+Contrairement aux rumeurs syndicales vous devez toujours
+Afin d'assurer la continuité du dialogue social il sera désormais nécessaire de
+Dans une logique de restauration dela confiance mutuelle, les collaborateurs devront
+Par mesure de qualité de service il serait préférable de
 
 [main]
 déclarer tous les frais en note de frais, au centime près, à partir du premier centime
@@ -61,6 +67,7 @@ Nous attendons un comportement irréprochable
 La DRH est à votre disposition pour plus de précisions
 Merci de vous mettre en conformité dans les plus brefs délais
 Nous comptons sur vous pour montrer l'exemple auprès de vos collègues
+Je vous enjoins à en faire acte
 
 [salutation]
 Bonne journée.
