@@ -10,26 +10,37 @@ Mes amis,
 Diffusion interne
 Salutations,
 
+[reason]
+Suite à un avis défavorable du CHSCT
+Pour être en accord avec le réglement intérieur de l'entreprise
+Afin d'assurer la continuité du dialogue social
+Contrairement aux rumeurs syndicales
+Pour des raisons évidentes d'assurance
+Le conseil d'administration a voté à l'unanimité que
+En raison du vote récent de la loi Travail,
+Suite aux négocations avec les délégués du personnel,
+De récents manquements nous imposent de vous rappeler que
+Les recommandations de notre CHO sont que dés aujourd'hui,
+Faisant suite aux accords de branche conclus l'année dernière,
+Votre métier est assorti de certaines obligations, notamment
+Dans une logique de restauration de la confiance mutuelle,
+Par mesure de qualité de service
+Afin d'éviter tout problème de compétitivité,
 
 [lead]
-Vous devez en toute circonstance
-L'avis défavorable du CHSCT confirme votre engagement de toujours
-Il est obligatoire de
-Nous vous rappelons que vous avez l'obligation légale de
-Le réglement intérieur de l'entreprise vous engage à
-Les accords de branche conclus l'année dernière vous imposent de
-En raison du vote récent de la loi Travail, vous devez
-Suite aux négocations avec les délégués du personnel, tous les salariés doivent désormais
-Les recommandations de notre CHO sont de
-Votre métier est assorti de certaines obligations, notamment de
-De récents manquements nous imposent de vous rappeler de
-Afin d'éviter tout problème de compétitivité, vous devez
-Le conseil d'administration a voté à l'unanimité l'obligation pour tous les collaborateurs de
-Pour des raisons évidentes d'assurance la norme sera désormais de
-Contrairement aux rumeurs syndicales vous devez toujours
-Afin d'assurer la continuité du dialogue social il sera désormais nécessaire de
-Dans une logique de restauration de la confiance mutuelle, les collaborateurs devront
-Par mesure de qualité de service il serait préférable de
+vous devez en toute circonstance
+nous confirmons votre engagement de toujours
+il est obligatoire de
+vous avez l'obligation légale de
+vous êtes engagés à
+vous devez
+vous devrez désormais, comme tous les salariés,
+en tant que collaborateurs, vous aurez l'obligation de
+la norme sera désormais de
+vous devez toujours
+il sera désormais nécessaire de
+les collaborateurs devront
+il serait préférable de
 
 [main]
 déclarer tous les frais en note de frais, au centime près, à partir du premier centime

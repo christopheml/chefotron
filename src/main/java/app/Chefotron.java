@@ -15,7 +15,7 @@ public class Chefotron {
     private static String generateMail(Dataset dataset) {
         return dataset.pick(Entry.INTRODUCTION) +
                 "\n" +
-                merge(dataset.pick(Entry.LEAD), dataset.pick(Entry.MAIN)) +
+                merge(merge(dataset.pick(Entry.REASON), dataset.pick(Entry.LEAD)), dataset.pick(Entry.MAIN)) +
                 ".\n\n" +
                 dataset.pick(Entry.FOLLOWUP) +
                 ".\n" +
